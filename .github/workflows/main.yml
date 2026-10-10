@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: fakhrizabondan/DEVOPS-Bootcamp:latest
+          tags: fakhrizabondan/devops-bootcamp:latest
